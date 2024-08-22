@@ -1,7 +1,9 @@
 # Indirect
-An unofficial UWP Instagram Direct Message client for Windows 10, built with the goal of providing Instagram messaging capability for Windows devices while maintaining Windows 10 design language.
 
-<a href='//www.microsoft.com/store/apps/9PHW4KJ8JVNZ?cid=storebadge&ocid=badge'><img src='https://developer.microsoft.com/en-us/store/badges/images/English_get-it-from-MS.png' alt='Store Link' height="50px"/></a>
+> [!IMPORTANT]  
+> Due to the high barrier for development, Indirect is no longer maintained and has been pulled from the Microsoft Store. Install the [sideload package](https://github.com/huynhsontung/Indirect/releases/download/v2.9.0/Indirect_2.9.0.0_Test.zip) at your own risk.
+
+An unofficial UWP Instagram Direct Message client for Windows 10, built with the goal of providing Instagram messaging capability for Windows devices while maintaining Windows 10 design language.
 
 ![screenshot](screenshot.png)
 

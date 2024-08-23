@@ -1,7 +1,7 @@
 # Indirect
 
 > [!IMPORTANT]  
-> Due to the high barrier for development, Indirect is no longer maintained and has been pulled from the Microsoft Store. Install the [sideload package](https://github.com/huynhsontung/Indirect/releases/download/v2.9.0/Indirect_2.9.0.0_Test.zip) at your own risk.
+> Due to the high barrier for development, Indirect is no longer maintained and has been pulled from the Microsoft Store. Install the [sideload package](https://github.com/huynhsontung/Indirect/releases/download/v2.9.0/Indirect_2.9.0.0_neutral.msixbundle) at your own risk.
 
 An unofficial UWP Instagram Direct Message client for Windows 10, built with the goal of providing Instagram messaging capability for Windows devices while maintaining Windows 10 design language.
 
